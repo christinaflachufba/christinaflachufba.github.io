@@ -7,4 +7,4 @@
 
 ## MATA61
 
-- Aulas
+- [Aulas](https://mata61-ic-ufba.github.io/)
