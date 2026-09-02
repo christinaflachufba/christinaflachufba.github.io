@@ -2,9 +2,11 @@
 
 ## MATA37 - Introdução à Lógica Programação (ILP)
 
-- [Aulas](https://mata37-ic-ufba.github.io/slides/)
+- [Portal](https://mata37-ic-ufba.github.io/)
 - [Jude](http://jude.dcc.ufba.br/)
 
 ## MATA61
 
-- [Aulas](https://mata61-ic-ufba.github.io/)
+- [Portal](https://mata61-ic-ufba.github.io/)
+
+
